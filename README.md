@@ -16,7 +16,18 @@ Filter rows with WHERE, combining conditions using AND, OR, NOT, and IN.
 After filtering each question, I then supplied the results tables as it would run on SQL.
 
 # Exercise 2
-Exploring Aggregate functions
+15 queries across 5 tables
+
+Exploring Aggregate, Filtering and grouping functions
+
+I Used aggregate functions: COUNT, SUM, AVG, MIN, MAX.
+
+Group results with GROUP BY and filter groups with HAVING.
+
+Applied common SQL operators: DISTINCT, BETWEEN, IN, NOT, AND, OR.
+
+Sort and limit results with ORDER BY and LIMIT
+
 
 # Exercise 3
 10 Queries that a table based
@@ -27,4 +38,9 @@ SQL's way of classifying rows into labelled
 buckets.
 
 Each question has a query and Results table.
+
+I combine CASE with comparison operators, BETWEEN, AND, and OR.
+
+I Use CASE to classify rows into business categories (price tiers, grades, stock
+status, etc.)
 
