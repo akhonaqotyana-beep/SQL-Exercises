@@ -28,6 +28,7 @@ Applied common SQL operators: DISTINCT, BETWEEN, IN, NOT, AND, OR.
 
 Sort and limit results with ORDER BY and LIMIT
 
+I answer each question by a query then draw a results table.
 
 # Exercise 3
 10 Queries that a table based
