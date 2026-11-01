@@ -45,3 +45,11 @@ I combine CASE with comparison operators, BETWEEN, AND, and OR.
 I Use CASE to classify rows into business categories (price tiers, grades, stock
 status, etc.)
 
+# Exercise  4
+10 Queries based questions mainly focusing on UNION and UNION ALL
+
+Last 3 questions are your personal insights about the questiions and what I have observed.
+
+Interesting coding practise based on the questions given, gives a clear insight of what you write on paper how it is done when being coded.
+
+Eye opening because I got to understand that, though I think I understood the result Databricks would see it in another way.
